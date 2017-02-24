@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodeweibo": "^2.0.4"
+  }
+}
